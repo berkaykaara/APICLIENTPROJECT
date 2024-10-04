@@ -1,12 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF77D22-80B3-4696-B190-6A03FE912854}|..\\CLIENT\\CLIENT.csproj|c:\\users\\msi-nb\\desktop\\apiclientproject\\client\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF77D22-80B3-4696-B190-6A03FE912854}|..\\CLIENT\\CLIENT.csproj|c:\\users\\msi-nb\\desktop\\apiclientproject\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF77D22-80B3-4696-B190-6A03FE912854}|..\\CLIENT\\CLIENT.csproj|c:\\users\\msi-nb\\desktop\\apiclientproject\\client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CLIENT\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\CLIENT\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T17:02:57.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CLIENT\\Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Program.cs",
+              "RelativeToolTip": "..\\CLIENT\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:02:50.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\CLIENT\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\APICLIENTPROJECT\\CLIENT\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\CLIENT\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T17:02:40.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
